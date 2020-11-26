@@ -50,3 +50,11 @@
 2020-11-26 13:24:41,153 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
 2020-11-26 13:24:41,157 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\Users\Meghana\source\repos\Booksearch_API
 2020-11-26 13:25:52,472 [15] INFO  Booksearch_API.Controllers.DisplayDetailsController [(null)] - entering into get all books
+2020-11-26 13:32:11,771 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+2020-11-26 13:32:12,350 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+2020-11-26 13:32:12,363 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\Users\Meghana\source\repos\Booksearch_API
+2020-11-26 13:32:53,400 [15] INFO  Booksearch_API.Controllers.DisplayDetailsController [(null)] - entering into get all books
+2020-11-26 20:08:19,576 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+2020-11-26 20:08:21,078 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+2020-11-26 20:08:21,087 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\Users\Meghana\source\repos\Booksearch_API
+2020-11-26 20:09:12,773 [14] INFO  Booksearch_API.Controllers.DisplayDetailsController [(null)] - entering into get all books
