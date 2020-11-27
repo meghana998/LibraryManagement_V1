@@ -13,6 +13,7 @@ namespace Booksearch_API.Repository
               new Book{Bookid=2,Bookname="SecondBook",AuthorName="secondAuthor",BookEdition=2},
                new Book{Bookid=3,Bookname="ThirdBook",AuthorName="thirdAuthor",BookEdition=2},
                 new Book{Bookid=4,Bookname="fourBook",AuthorName="FourAuthor",BookEdition=2},
+                new Book{Bookid=5,Bookname="fiveBook",AuthorName="FiveAuthor",BookEdition=5},
         };
 
       //  public Book GetBookInfo(int id)
